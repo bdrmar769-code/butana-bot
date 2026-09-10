@@ -14,3 +14,5 @@ android.sdk_path =
 android.ndk_path =
 android.arch = arm64-v8a
 android.permissions = INTERNET
+requirements = python3,kivy==2.3.0
+android.arch = arm64-v8a
